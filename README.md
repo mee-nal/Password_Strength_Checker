@@ -4,6 +4,6 @@ In order to use the above code efficiently, download the given 'common passwords
 
 Download [common passwords.txt](https://github.com/mee-nal/Password_Strength_Checker/files/13114917/common.passwords.txt) from here. 
 
-Another option is to download a common password list from Google, tons are available there. 
+You can also download a common password list from Google, tons are available there. 
 
 NOTE: wherever the file is downloaded from just make sure to change the path of the text file in the Python code before running it.
