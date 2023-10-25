@@ -2,7 +2,7 @@ import string
 
 def check_password_strength(password):
     common_passwords = set()
-    with open("C:\\Users\\meena\\Downloads\\common passwords.txt") as f:
+    with open("add your file path") as f:
         common_passwords.update(line.strip() for line in f)
 
     length = len(password)
